@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/shihh/sqdt/raw/master/image.5757.png</string>
+					<string>https://111.205.27.170:8443/report/i57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/shihh/sqdt/raw/master/image.512512.png</string>
+					<string>https://111.205.27.170:8443/report/i512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
